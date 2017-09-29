@@ -1,2 +1,2 @@
-echo 'HELLO'
+echo 'HELLO Hi'
 echo 'Thejas'
